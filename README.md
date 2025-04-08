@@ -1,7 +1,6 @@
 # 🛰️ Silent C++ File Downloader
 
-A lightweight, embeddable C++ downloader built with **Visual Studio 2022**, using the WinINet API. This program silently downloads files from any URL and can be integrated into other projects or used as a standalone utility.
-
+A lightweight, embeddable C++ downloader built with **Visual Studio 2022**, using the WinINet API. This program silently downloads files from any URL and can be integrated into other projects or used as a standalone utility. 
 ---
 
 ## ⚙️ Features
@@ -13,6 +12,11 @@ A lightweight, embeddable C++ downloader built with **Visual Studio 2022**, usin
 - 📥 **Automatic filename detection** from the URL (ignores query strings)
 - 🛠️ **Easy integration** into any C++ application
 - 🧠 **No external dependencies** – uses only native WinINet
+
+---
+## ⚠ Notes
+
+- This project is mainly intended for people to implement this into their projects!
 
 ---
 
