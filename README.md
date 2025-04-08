@@ -21,4 +21,4 @@ A lightweight, embeddable C++ downloader built with **Visual Studio 2022**, usin
 If compiled as a standalone `.exe`, use it like this:
 
 ```bat
-downloader.exe "https://cdn.discordapp.com/attachments/.../file.exe?ex=abc^&is=xyz" filenamehere
+winnet.exe "https://cdn.discordapp.com/attachments/.../file.exe?ex=abc^&is=xyz" filenamehere
